@@ -6,8 +6,5 @@
     "api": "node server.js",
     "test": "mocha test_calculator.js",
     "start": "node borrowingCalculator.js"
-  },
-  "dependencies": {
-    "dotenv": "^17.4.2"
   }
 }
