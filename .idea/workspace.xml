@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1bc6d9b2-5182-483a-abec-5ca1d184faed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/junior-swe-take-home-priscella.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/REQUIREMENTS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/borrowingCalculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/borrowingCalculator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_calculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/test_calculator.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "PriscellaM"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PriscellaM/junior-swe-take-home-priscella.git",
+    "accountId": "b80bfddc-4b69-4a12-954c-64c80b5e80d8"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0021814745512554E-12" />
+      <entry key="MS500" value="0.00433239676568212" />
+      <entry key="S2" value="0.4412697226506035" />
+      <entry key="S5" value="1.3370490433010438" />
+      <entry key="S10" value="1.987732913066518" />
+      <entry key="S30" value="2.7437000848565627" />
+      <entry key="S60" value="5.341301070685896" />
+      <entry key="M2" value="21.43269737647542" />
+      <entry key="M5" value="84.47375239029918" />
+      <entry key="M10" value="166.58704552049736" />
+      <entry key="M15" value="238.0640306552455" />
+      <entry key="M30" value="427.047188403758" />
+      <entry key="H1" value="682.8747937475927" />
+      <entry key="H2" value="951.8374938391986" />
+      <entry key="H4" value="1183.9144749471268" />
+      <entry key="D1" value="1485.1879630263143" />
+      <entry key="W1" value="1552.2636468676446" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0000000000157045" />
+      <entry key="M2" value="1.0000065145913355" />
+      <entry key="M5" value="1.018472257752409" />
+      <entry key="M10" value="1.3230793088621449" />
+      <entry key="M15" value="1.8985711001411167" />
+      <entry key="M30" value="3.6657459063961895" />
+      <entry key="H1" value="6.09342161407959" />
+      <entry key="H2" value="9.538904132171785" />
+      <entry key="H4" value="13.765672273438161" />
+      <entry key="D1" value="20.883475862635144" />
+      <entry key="W1" value="22.678907743415834" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.002559362117872222" />
+      <entry key="MS500" value="0.30742421122886693" />
+      <entry key="S2" value="1.1822545033484197" />
+      <entry key="S5" value="2.223233917253017" />
+      <entry key="S10" value="2.9288097842361607" />
+      <entry key="S30" value="3.7235298387487292" />
+      <entry key="S60" value="6.330958677085813" />
+      <entry key="M2" value="22.42646072457535" />
+      <entry key="M5" value="85.4845454997804" />
+      <entry key="M10" value="167.8979338976931" />
+      <entry key="M15" value="239.94731234640284" />
+      <entry key="M30" value="430.69501631982564" />
+      <entry key="H1" value="688.9522004346405" />
+      <entry key="H2" value="961.3639027784939" />
+      <entry key="H4" value="1197.6714476487969" />
+      <entry key="D1" value="1506.0693510921064" />
+      <entry key="W1" value="1574.9422341329234" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3IzM6zy5fgxBvOJDKhUr1cGICug" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "javascript.nodejs.core.library.configured.version": "22.14.0",
+    "javascript.nodejs.core.library.typings.version": "22.14.1",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "C:/parkinkyung/GitHub/junior-swe-take-home-priscella",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2026.2.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.9437.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bc6d9b2-5182-483a-abec-5ca1d184faed" name="Changes" comment="" />
+      <created>1788762773624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788762773624</updated>
+      <workItem from="1788762775717" duration="16486000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
