@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bc6d9b2-5182-483a-abec-5ca1d184faed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BorrowingPowerCalculator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/borrowingCalculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/borrowingCalculator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="1bc6d9b2-5182-483a-abec-5ca1d184faed" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,18 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "PriscellaM"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PriscellaM&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/PriscellaM/junior-swe-take-home-priscella.git",
-    "accountId": "b80bfddc-4b69-4a12-954c-64c80b5e80d8"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PriscellaM/junior-swe-take-home-priscella.git&quot;,
+    &quot;accountId&quot;: &quot;b80bfddc-4b69-4a12-954c-64c80b5e80d8&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -37,94 +33,94 @@
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0000000117724468" />
-      <entry key="S60" value="1.0003498743542663" />
-      <entry key="M2" value="1.1734640003547934" />
-      <entry key="M5" value="13.301973768189413" />
-      <entry key="M10" value="64.57227173090902" />
-      <entry key="M15" value="126.25011091397681" />
-      <entry key="M30" value="310.7547930847849" />
-      <entry key="H1" value="582.5836202657262" />
-      <entry key="H2" value="879.4121823267337" />
-      <entry key="H4" value="1138.3342072291232" />
-      <entry key="D1" value="1476.2854162077601" />
-      <entry key="W1" value="1551.7808648988907" />
+      <entry key="S2" value="1.0000948554559892" />
+      <entry key="S5" value="1.0544951123503667" />
+      <entry key="S10" value="1.562106998830231" />
+      <entry key="S30" value="4.836504533053041" />
+      <entry key="S60" value="7.776573517207193" />
+      <entry key="M2" value="10.356694149581918" />
+      <entry key="M5" value="18.020873863650753" />
+      <entry key="M10" value="55.57629226512306" />
+      <entry key="M15" value="108.89312895770792" />
+      <entry key="M30" value="283.9771073192524" />
+      <entry key="H1" value="557.1744318962143" />
+      <entry key="H2" value="863.1917489123988" />
+      <entry key="H4" value="1132.6167656070988" />
+      <entry key="D1" value="1485.9945600944875" />
+      <entry key="W1" value="1565.1357855024116" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="3.075753648662549E-126" />
-      <entry key="S5" value="6.239942951092701E-51" />
-      <entry key="S10" value="7.899330953373647E-26" />
-      <entry key="S30" value="4.2907192939731695E-9" />
-      <entry key="S60" value="6.550358229980966E-5" />
-      <entry key="M2" value="0.00809348106562932" />
-      <entry key="M5" value="0.14832085285627272" />
-      <entry key="M10" value="0.5049081522619254" />
-      <entry key="M15" value="0.9988751354677033" />
-      <entry key="M30" value="2.6589154444065572" />
-      <entry key="H1" value="5.189581215428082" />
-      <entry key="H2" value="8.803067382804803" />
-      <entry key="H4" value="13.224071749596535" />
-      <entry key="D1" value="20.74423449884002" />
-      <entry key="W1" value="22.657243978023384" />
+      <entry key="S2" value="9.186308123104278E-181" />
+      <entry key="S5" value="9.666213945590292E-73" />
+      <entry key="S10" value="9.831690569576673E-37" />
+      <entry key="S30" value="9.943579123681915E-13" />
+      <entry key="S60" value="9.971749657905698E-7" />
+      <entry key="M2" value="9.985929892563903E-4" />
+      <entry key="M5" value="0.06422490597053507" />
+      <entry key="M10" value="0.33224848891109954" />
+      <entry key="M15" value="0.7556922301556053" />
+      <entry key="M30" value="2.31271120120951" />
+      <entry key="H1" value="4.839948622590296" />
+      <entry key="H2" value="8.501356832437361" />
+      <entry key="H4" value="12.995479442268396" />
+      <entry key="D1" value="20.684035038380536" />
+      <entry key="W1" value="22.647839276910208" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="5.1324244095075355E-5" />
-      <entry key="MS500" value="0.13869618400848063" />
-      <entry key="S2" value="0.6102617190850788" />
-      <entry key="S5" value="0.8207416088104984" />
-      <entry key="S10" value="0.9059479062344028" />
-      <entry key="S30" value="0.9676116361189655" />
-      <entry key="S60" value="0.9840872171887117" />
-      <entry key="M2" value="1.1733096129676346" />
-      <entry key="M5" value="13.445889266178147" />
-      <entry key="M10" value="65.07088275907151" />
-      <entry key="M15" value="127.23984511336023" />
-      <entry key="M30" value="313.4001632869272" />
-      <entry key="H1" value="587.7592877234596" />
-      <entry key="H2" value="888.203581227317" />
-      <entry key="H4" value="1151.5498530950392" />
-      <entry key="D1" value="1497.0275653981719" />
-      <entry key="W1" value="1574.4377870717522" />
+      <entry key="MS100" value="0.9659363289248456" />
+      <entry key="MS500" value="0.9930924954370359" />
+      <entry key="S2" value="0.9983633151317274" />
+      <entry key="S5" value="1.053763085144607" />
+      <entry key="S10" value="1.5615651358525064" />
+      <entry key="S30" value="4.835965549066623" />
+      <entry key="S60" value="7.775907080752787" />
+      <entry key="M2" value="10.356400177667306" />
+      <entry key="M5" value="18.0830585691833" />
+      <entry key="M10" value="55.90432602732229" />
+      <entry key="M15" value="109.64185723023138" />
+      <entry key="M30" value="286.2780121308383" />
+      <entry key="H1" value="562.0013916052654" />
+      <entry key="H2" value="871.6818308653216" />
+      <entry key="H4" value="1145.603961648917" />
+      <entry key="D1" value="1506.6765153467557" />
+      <entry key="W1" value="1587.783303032101" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3IzM6zy5fgxBvOJDKhUr1cGICug" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "javascript.nodejs.core.library.configured.version": "22.14.0",
-    "javascript.nodejs.core.library.typings.version": "22.14.1",
-    "javascript.preferred.runtime.type.id": "node",
-    "last_opened_file_path": "C:/parkinkyung/GitHub/junior-swe-take-home-priscella",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2026.2.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;22.14.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;22.14.1&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/parkinkyung/GitHub/junior-swe-take-home-priscella&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2026.2.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -139,7 +135,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1788762773624</updated>
-      <workItem from="1788762775717" duration="17166000" />
+      <workItem from="1788762775717" duration="17591000" />
     </task>
     <servers />
   </component>
