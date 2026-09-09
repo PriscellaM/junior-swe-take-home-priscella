@@ -1,3 +1,8 @@
+/**
+ * Borrowing Power Calculator
+ *
+ * Handles API communication and borrowing power calculations.
+ */
 require('dotenv').config(); // For ENV
 
 class BorrowingPowerCalculator {
@@ -27,14 +32,12 @@ class BorrowingPowerCalculator {
     async getTax( income ) {
         const taxData = await this.fetchJSON(`api/tax?income=${income}`);
         const { tax } = taxData;    // destructuring
-        // console.log(tax);   // debug output
         return tax;
     }
 
     async getHEM( income, dependents ) {
         const hemData = await this.fetchJSON(`api/hem?income=${income}&dependents=${dependents}`);
         const { hem } = hemData;    // destructuring
-        // console.log('HEM: ', hem);  // debug output
         return hem;
     }
 
